@@ -1,7 +1,5 @@
-import pickle
 import random
 import os
-import pip
 
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 uper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
